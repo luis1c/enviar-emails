@@ -23,5 +23,5 @@ Construir a funcionalidade de enviar um e-mail, todas as segundas-feiras, para o
 ## Requisitos
 
 - Node.js;
-- Para rodar o projeto basta, com o node instalado, com o terminal na parta do projeto, digitar o comando node `index.js`.
+- Para rodar o projeto basta, com o node instalado, com o terminal na parta do projeto, digitar o comando `node index.js`.
 - Caso não seja uma segunda feira e queira rodar o projeto simulando o envio dos e-mails, basta, no arquivo `verificaDia.js` comentar o primeiro `return` e tirar o segundo `return` da forma de comentário.
